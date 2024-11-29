@@ -47,7 +47,7 @@
     "universalviewer": "^4.0.22",
     "vite": "^4.3.2",
     "vite-plugin-env-compatible": "^1.1.1",
-    "vite-plugin-svgr": "^3.2.0",
+    "vite-plugin-svgr": "^4.1.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
